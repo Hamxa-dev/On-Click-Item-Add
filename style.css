@@ -1,0 +1,31 @@
+button {
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  color: rgb(255, 255, 255);
+  background-color: #ff9f0f;
+  border: none;
+  box-shadow: currentColor;
+
+  
+}
+.h1{
+    text-align: center;
+    font-size: 40px;
+}
+button:hover {
+  background-color: #80fd5a;
+}
+
+ol{
+    font-size: 50px;
+    color: #000000;
+}
+body {
+  background-image: url("https://e0.pxfuel.com/wallpapers/244/486/desktop-wallpaper-fruits-amp-vegetables-hi-res-fruits-and-vegetables-high-resolution.jpg");
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
